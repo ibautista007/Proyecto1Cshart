@@ -71,7 +71,7 @@
             this.groupBox1.Size = new System.Drawing.Size(574, 119);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Buscar por nombre";
+            this.groupBox1.Text = "Pro";
             // 
             // button3
             // 

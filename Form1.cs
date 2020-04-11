@@ -18,6 +18,10 @@ namespace Proyecto
             InitializeComponent();
         }
 
+        private void lectura()
+        { 
+        }
+
         private void btnName_Click(object sender, EventArgs e)
         {
             StreamReader lector;
